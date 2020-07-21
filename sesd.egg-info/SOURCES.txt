@@ -1,0 +1,8 @@
+README.md
+sesd.py
+setup.py
+sesd.egg-info/PKG-INFO
+sesd.egg-info/SOURCES.txt
+sesd.egg-info/dependency_links.txt
+sesd.egg-info/requires.txt
+sesd.egg-info/top_level.txt
